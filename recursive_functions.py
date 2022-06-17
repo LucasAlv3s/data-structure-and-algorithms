@@ -5,5 +5,5 @@ def factorial(num: int) -> int:
     return num * factorial(num - 1)
 
 if __name__ == '__main__':
-    factorial5 = factorial(5)
+    factorial5 = factorial(800)
 print(factorial5)
