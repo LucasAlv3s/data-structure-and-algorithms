@@ -2,6 +2,7 @@
 # sys.setrecursionlimit(5000)
 
 def factorial(num: int) -> int:
+    # base case
     if num == 1:
         return 1
     # recursive case
