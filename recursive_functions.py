@@ -1,3 +1,6 @@
+# import sys
+# sys.setrecursionlimit(5000)
+
 def factorial(num: int) -> int:
     if num == 1:
         return 1
@@ -5,5 +8,5 @@ def factorial(num: int) -> int:
     return num * factorial(num - 1)
 
 if __name__ == '__main__':
-    factorial5 = factorial(800)
+    factorial5 = factorial(5)
 print(factorial5)
