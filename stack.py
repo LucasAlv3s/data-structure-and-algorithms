@@ -6,4 +6,6 @@ stack.append('A')
 stack.append('B')
 stack.append('C')
 
-print(stack)
+top_item =  stack.pop() # C
+
+print(stack, top_item)
