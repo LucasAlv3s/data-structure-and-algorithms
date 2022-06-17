@@ -42,15 +42,7 @@ if __name__ == '__main__':
     boxes: List[Cashier] = [
         Cashier(False), Cashier(False), Cashier(False),
         Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
         Cashier(False), Cashier(True), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
-        Cashier(False), Cashier(False), Cashier(False),
         Cashier(False), Cashier(False), Cashier(False),
     ]
 
